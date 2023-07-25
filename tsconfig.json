@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2018",
+    "lib": ["ES2018", "DOM"],
+    "allowJs": true,
+    "jsx": "react",
+    "outDir": "./build", // Set this to the desired output directory for compiled JavaScript files
+    "rootDir": "./src"   // Set this to the root directory of your TypeScript source files
+  },
+  "include": ["src/**/*"]
+}
