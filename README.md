@@ -8,22 +8,42 @@ This is a Decentralized Faucet by which a user can initially claim 10,000 free C
 
 1) Homepage
    
-   ![image](https://github.com/ShubhamG2311/TokenVerse/assets/76262127/27a96a5a-dbda-4909-8065-ae44965ce4b3)
+   <img 
+    src="Screenshots/1.png" 
+    width="75%" 
+    height="100%"
+/>
 
    
 2) Free tokens claimed
 
-   ![image](https://github.com/ShubhamG2311/TokenVerse/assets/76262127/8ef580a2-54dd-4974-b437-dbf966a95d5c)
+   <img 
+    src="Screenshots/2.png" 
+    width="75%" 
+    height="100%"
+/>
 
 3) Checking the Balance
 
-  ![image](https://github.com/ShubhamG2311/TokenVerse/assets/76262127/894d294b-8f30-4ed7-8112-607edf55d248)
+  <img 
+    src="Screenshots/3.png" 
+    width="75%" 
+    height="100%"
+/>
 
 4) Transferring the Tokens to another account
 
-  ![image](https://github.com/ShubhamG2311/TokenVerse/assets/76262127/2872319b-6021-4c27-9417-13c7d0cbd5a9)
+  <img 
+    src="Screenshots/4.png" 
+    width="75%" 
+    height="100%"
+/>
 
-  ![image](https://github.com/ShubhamG2311/TokenVerse/assets/76262127/d87d4dd4-8dc9-4002-9319-8653501980e7)
+  <img 
+    src="Screenshots/5.png" 
+    width="75%" 
+    height="100%"
+/>
 
 
 # Check your Balance
